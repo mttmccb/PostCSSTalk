@@ -1,3 +1,0 @@
-### Maintainable CSS
-
-* Harry Roberts

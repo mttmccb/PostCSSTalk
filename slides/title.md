@@ -1,1 +1,0 @@
-## Upgrading Your CSS with <img src="../assets/postcss-logo.svg" class="plain title-logo" style="height:4.5rem" />
