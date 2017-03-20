@@ -2,15 +2,6 @@
 
 CSS, along with the web standards movement in the early 2000s really helped to push the web it a domain that wasn't infuriating. You didn't have to download a gigantic and inflexible file just to render a nice looking page, you could change the styling considerably with just one file.
 
-CSS Zen garden
-
-* 5 designs
-* Separate Style from Content
-  * 36 designs 
-  * <img src="assets/css-zen-garden-book.jpg" height="150" class="plain vmiddle" />
-* https://alistapart.com/
-* Learning about Web Standards from Jeffrey Zeldman
-
 You could write the structure for your page, the HTML, in a particular way and use CSS to breath life into it and when it looked a mess you could just rewrite it.
 
 That was a partly unfulfilled promise, you couldn't write the HTML anyway you wanted to. Source order was still important, particularly for accessibility.

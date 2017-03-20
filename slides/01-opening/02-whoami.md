@@ -4,6 +4,4 @@
 
 blog @ mttmccb.net
 
-<img src="../assets/SorbetIcon.png" height="80" class="plain" /> <img src="../assets/microsoftnetlogo.png" height="80" class="plain" /> 
-
-<img src="../assets/running-shoe.png" height="150" class="plain" /> <img src="../assets/haggis.png" height="150" class="plain" /> <img src="../assets/family.png" height="150" class="plain" />
+<img src="../assets/SorbetIcon.png" height="80" class="plain" /> <img src="../assets/microsoftnetlogo.png" height="80" class="plain" /> <img src="../assets/aurelia-logo.png" height="80" class="plain" />

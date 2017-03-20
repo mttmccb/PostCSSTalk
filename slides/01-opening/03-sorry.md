@@ -1,12 +1,7 @@
 ### But I don't touch the front end....
 
-* Ok, this talk won't be *directly* useful.
-* However, you can always learn *something*.
+* The web continues to escape the browser
+* Cross Platform
+* Progressive Web Apps
 
-<aside class="notes">
-  Personal website.
-  Blog.
-  Business.
-  Modularity vs Monoliths.
-  Flexibility vs Rigidity
-</aside>
+<img src="../assets/electron-logo.svg" height="150" class="fragment fade-up plain vmiddle" /> <img src="../assets/ionic.png" height="150" class="fragment fade-up plain vmiddle" /> <img src="../assets/meteor-icon2.svg" height="150" class="fragment fade-up plain vmiddle" /> <img src="../assets/react.svg" height="150" class="fragment fade-up plain vmiddle" />
