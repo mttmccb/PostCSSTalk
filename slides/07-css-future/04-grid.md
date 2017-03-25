@@ -7,4 +7,4 @@
   example-goes-here!
 ```
 
- * Rachel Andrews
+ * [Rachel Andrews](https://rachelandrew.co.uk/presentations/css-grid) or [Jen Simmons](http://jensimmons.com/post/feb-27-2017/learn-css-grid)
