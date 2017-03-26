@@ -1,4 +1,4 @@
-### Why use pre-processors?
+### Enter pre-processors
 
 * **2005** [Sass](http://sass-lang.com/)
   * Ruby community
