@@ -1,4 +1,4 @@
-### Maintainable CSS
+### Maintainable CSS resources
 
 * [ITCSS](http://itcss.io/) - Inverted Triangle CSS
   * [Harry Roberts](https://csswizardry.com/)

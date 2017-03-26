@@ -1,8 +1,8 @@
 ### CSS Variables
 
 * [CSS Custom Properties for Cascading Variables Module Level 1](https://drafts.csswg.org/css-variables/)
-  * Sort of variables but they cascade
-  * You can change them a run time
+  * Sort of like variables but they cascade
+  * You can change them at run time
 
 ```css
 :root {

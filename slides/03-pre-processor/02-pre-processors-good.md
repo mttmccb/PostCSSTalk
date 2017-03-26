@@ -1,13 +1,12 @@
 ### Why use pre-processors?
 
-* **2005** Sass
+* **2005** [Sass](http://sass-lang.com/)
   * Ruby community
-* **2009** LESS
+* **2009** [LESS](http://lesscss.org/)
+* **2010** Stylus (No development since 2016)
   * Bye bye semicolons!
-* **2010** Stylus (No developement since 2016)
 * **2012** Rework (Abandoned 2014)
 * **2013** Myth (Abandoned 2015)
-
 * [Karolina Szczur (Talk)](https://www.youtube.com/watch?v=1vbBLc-fgWk)
 
 <aside class="notes">

@@ -1,4 +1,4 @@
-### More maintainable styling
+### Maintainable CSS
 
 * Naming conventions
   * [BEM](https://www.sitepoint.com/css-architecture-block-element-modifier-bem/)
