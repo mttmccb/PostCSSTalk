@@ -1,18 +1,15 @@
-### Enter pre-processors
+### Pre-processors - the good bits
 
-* **2005** [Sass](http://sass-lang.com/)
-  * Ruby community
-* **2009** [LESS](http://lesscss.org/)
-* **2010** Stylus (No development since 2016)
-  * Bye bye semicolons!
-* **2012** Rework (Abandoned 2014)
-* **2013** Myth (Abandoned 2015)
-* [Karolina Szczur (Talk)](https://www.youtube.com/watch?v=1vbBLc-fgWk)
+* Variables
+* Functions (mixins)
+* DRY
+* Math
+* Organise and split files
+  * Combine them at build time
+* Increase efficiency
 
 <aside class="notes">
-That's why pre-processing tools like Sass emerged you could start to split up your giant stylesheet into partial views, use function to generate some of your rules, nest rules.
+It was easy to forget you were still writing CSS and CSS is bad enough without another level of abstraction and the end result was still one giant style sheet.
 
-This really helped get you towards more maintainable code, until you come to debugging it and realised some of the rules it produced were horrific and difficult to unpick.
-
-Myth was promising, sold itself as a CSS polyfill
+So it does have a lot of good points but it encourage some bad behaviour, which has become better understood. Using extend and nesting things deeply has become a bit of an antipattern.
 </aside>

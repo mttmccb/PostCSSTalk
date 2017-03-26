@@ -15,7 +15,9 @@
   * Bootstrap all the things! [Bootstrap Studio](https://bootstrapstudio.io/)
 
 <aside class="notes">
-Tables for HTML emails
+No years on this list but that's because you might still use all of these.
 
-Box model width + padding
+Tables for HTML emails but tables are bad for accessibility, your mark order might all wrong
+
+Box model width + padding. (IE5.5)
 </aside>

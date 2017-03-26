@@ -1,6 +1,7 @@
 ### Does CSS need an upgrade?
 
 <ul class="fragment fade-up">
+  <li>No parent selector</li>
   <li>No variables</li>
   <li>No functions</li>
   <li>The cascading part</li>

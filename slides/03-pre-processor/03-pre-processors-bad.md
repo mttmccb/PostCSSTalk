@@ -1,11 +1,13 @@
-### Pre-processors
+### Pre-processors - the bad parts
 
-So how can we do this better? Sass is a very proprietry language, it will never be native in a browser so Sass will always be part of a build step.
-
-* Includes
-* Extends
-* Nesting (specificity)
-* Scoping / global
+* It doesn't exist in the browser
+* It's an abstraction
+* Bad behaviour
+  * Includes
+  * Extends
+  * Nesting (specificity)
+  * Scoping / global
+* Harder to debug
 * Hard to delete code
 
 <aside class="notes">
