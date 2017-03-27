@@ -1,4 +1,4 @@
-### What are the pain points and pitfalls of PostCSS
+### Oh FFS...
 
 When I first started with PostCSS I found a library that covered the majority of what I was looking for. So I dropped in an issue. Use PostCSS, it's really easy!
 
