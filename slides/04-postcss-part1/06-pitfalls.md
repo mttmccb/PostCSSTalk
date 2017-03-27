@@ -9,3 +9,7 @@ The biggest thing I learned was that order is important.
 Next is don't over do the number of plugins.
 
 Some plugins work better together.
+
+Converting existing projects
+
+Sass-like is not worth the effort
