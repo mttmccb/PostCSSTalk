@@ -4,8 +4,13 @@
 
 blog @ mttmccb.net
 
+webmaster since 1998
+
 <img src="../assets/logos/sorbet-logo.svg" height="60" class="plain vmiddle" /> <img src="../assets/logos/Micro_Soft.svg" height="100" class="plain vmiddle" /> <img src="../assets/logos/aurelia-logo.png" height="100" class="plain vmiddle" />
 
-<aside class="notes">
-Original logo from 1978 with a splash of colour
+<aside class="notes" data-markdown>
+  - Web App Developer
+  - PropTech Startup
+  - Over the road
+  - Original logo from 1978 with a splash of colour
 </aside>

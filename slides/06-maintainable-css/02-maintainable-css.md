@@ -7,7 +7,7 @@
   * [Ben Frain](https://benfrain.com/)
   * [Improving CSS at bet365](http://bet365techblog.com/improving-css-at-bet365)
 
-<aside class="notes">
+<aside class="notes" data-markdown>
 Unpublished, no book
 Better suited to websites
 

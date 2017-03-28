@@ -14,8 +14,8 @@
 * Libraries (Grids, Components, Layouts, etc...)
   * Bootstrap all the things! [Bootstrap Studio](https://bootstrapstudio.io/)
 
-<aside class="notes">
-No years on this list but that's because you might still use all of these.
+<aside class="notes" data-markdown>
+Looks old but you probably still need to know them all.
 
 Tables for HTML emails but tables are bad for accessibility, your mark order might all wrong
 

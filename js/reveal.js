@@ -3613,7 +3613,7 @@
 	 * Retrieves the speaker notes from a slide. Notes can be
 	 * defined in two ways:
 	 * 1. As a data-notes attribute on the slide <section>
-	 * 2. As an <aside class="notes"> inside of the slide
+	 * 2. As an <aside class="notes" data-markdown> inside of the slide
 	 *
 	 * @param {HTMLElement} [slide=currentSlide]
 	 * @return {(string|null)}
@@ -3628,7 +3628,7 @@
 			return slide.getAttribute( 'data-notes' );
 		}
 
-		// ... or using an <aside class="notes"> element
+		// ... or using an <aside class="notes" data-markdown> element
 		var notesElement = slide.querySelector( 'aside.notes' );
 		if( notesElement ) {
 			return notesElement.innerHTML;

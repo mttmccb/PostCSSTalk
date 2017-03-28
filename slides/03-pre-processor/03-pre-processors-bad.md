@@ -1,17 +1,17 @@
 ### Pre-processors - the bad parts
 
-* It doesn't exist in the browser
 * It's an abstraction
-* Bad behaviour
+* Antipatterns
   * Includes
   * Extends
-  * Nesting (specificity)
-  * Scoping / global
+  * Lots of Nesting (specificity)
 * Harder to debug
-* Hard to delete code
+* Inflexible / Monolithic
 
-<aside class="notes">
-It was easy to forget you were still writing CSS and CSS is bad enough without another level of abstraction and the end result was still one giant style sheet.
-
-So it does have a lot of good points but it encourage some bad behaviour, which has become better understood. Using extend and nesting things deeply has become a bit of an antipattern.
+<aside class="notes" data-markdown>
+- Easy to forget you're writing CSS
+- Allows or encourage some bad behaviour
+- Now better understood
+- sourcemaps came in 2013
+- Is there a better way?
 </aside>

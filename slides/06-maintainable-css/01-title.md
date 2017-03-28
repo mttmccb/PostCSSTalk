@@ -7,7 +7,7 @@
   ```
 * Folder structure
 
-<aside class="notes">
+<aside class="notes" data-markdown>
 Argument on slack about the naming convention
 SUITCSS
 </aside>

@@ -10,7 +10,7 @@
 * **2005** Sass created
 * **2017** [caniuse.com](http://caniuse.com) or [html5 please](http://html5please.com/#box-sizing)
 
-<aside class="notes">
+<aside class="notes" data-markdown>
 Who worked with Tim Berners-Lee
 CTO at Opera
 

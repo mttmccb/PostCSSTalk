@@ -9,10 +9,9 @@
 
 <small>[Karolina Szczur (Talk)](https://www.youtube.com/watch?v=1vbBLc-fgWk)</small>
 
-<aside class="notes">
-That's why pre-processing tools like Sass emerged you could start to split up your giant stylesheet into partial views, use function to generate some of your rules, nest rules.
-
-This really helped get you towards more maintainable code, until you come to debugging it and realised some of the rules it produced were horrific and difficult to unpick.
+<aside class="notes" data-markdown>
+- Because of complexity pre-processor were born
+- Easier to maintain (browser bugs)
 
 Myth was promising, sold itself as a CSS polyfill
 

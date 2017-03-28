@@ -40,9 +40,9 @@
   </g>
 </svg>
 
-<aside class="notes">
-Start with CSS
-Transform it with a plugin
-Then another plugin
-Then convert it back to CSS
+<aside class="notes" data-markdown>
+- Start with CSS
+- Transform it with a plugin
+- Then another plugin
+- Then convert it back to CSS
 </aside>
