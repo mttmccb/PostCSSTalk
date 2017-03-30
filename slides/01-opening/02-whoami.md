@@ -4,8 +4,6 @@
 
 blog @ mttmccb.net
 
-webmaster since 1998
-
 <img src="assets/logos/sorbet-logo.svg" height="60" class="plain vmiddle" /> <img src="assets/logos/Micro_Soft.svg" height="100" class="plain vmiddle" /> <img src="assets/logos/aurelia-logo.png" height="100" class="plain vmiddle" />
 
 <aside class="notes" data-markdown>
