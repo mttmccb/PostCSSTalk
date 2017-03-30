@@ -1,5 +1,5 @@
 ### Who made it
-<img src="../assets/logos/em-logo.svg" height="200" class="plain vmiddle" />
+<img src="assets/logos/em-logo.svg" height="200" class="plain vmiddle" />
 * [Andrey Sitnik](https://evilmartians.com/)
 * Plugins, including Autoprefixer
 

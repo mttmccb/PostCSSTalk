@@ -1,4 +1,4 @@
-### <img src="../assets/logos/autoprefixer.png" height="90" class="plain vmiddle" /> Autoprefixer
+### <img src="assets/logos/autoprefixer.png" height="90" class="plain vmiddle" /> Autoprefixer
 
 * Add vendor prefixes to CSS rules
 * Using stats from Can I Use

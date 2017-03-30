@@ -1,4 +1,4 @@
-### <img src="../assets/logos/cssnext.png" height="90" class="plain vmiddle" /> CSSNext
+### <img src="assets/logos/cssnext.png" height="90" class="plain vmiddle" /> CSSNext
 
 <blockquote>
   Use tomorrow’s CSS syntax, today.
